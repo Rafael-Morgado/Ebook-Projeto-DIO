@@ -12,8 +12,11 @@ faça um texto para ebook, com foco na carreira da maior lenda do league of lege
 {REGRAS}
 
 explique sempre de uma maneira simples
+
 deixe o texto enxuto
+
 sempre deixe um titulo sugestivo por topico
+
 
 Prompt de Imagem: (bing AI Image creator)
 
